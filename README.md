@@ -7,7 +7,7 @@ This project is a web-based control panel for a robot. It allows users to contro
 - [Technologies Used](#technologies-used)
 - [Code Explanation](#code-explanation)
   - [HTML (index.html)](#html-indexhtml)
-  - [HTML (index.html)](#retrieve_command.html)
+  - [HTML (retrieve_command.html)](#retrieve_command.html)
   - [CSS (styles.css)](#css-stylescss)
   - [JavaScript (script.js)](#javascript-scriptjs)
   - [PHP (store_command.php)](#php-store_commandphp)
