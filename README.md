@@ -137,4 +137,4 @@ robot-control-panel/
 - **Separate Interfaces**: Designed with two separate interfaces for each device, one for controlling the robot and another for displaying the latest command.
 
 made with love by "she codes team "🤍😄
-raghd Alshammari - sadeem alresaini - razan alothaim.
+raghad Alshammari - sadeem alresaini - razan alothaim.
